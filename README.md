@@ -1,7 +1,9 @@
-## Olá, eu sou o Natan 👋
+## Olá, eu sou o Natanael 👋
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Focado em Python, Java e Desenvolvimento Web  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interessado em Desenvolvimento Backend e Web  
+📚 Atualmente estudando Python, Java e fundamentos de programação  
+🚀 Buscando evoluir constantemente e construir projetos práticos 
 
 ---
 
@@ -22,8 +24,8 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanaelrb&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&layout=donut&theme=radical"/>
 </p>
 
 ---
