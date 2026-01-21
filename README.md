@@ -7,13 +7,13 @@
 
 ### 🌐 Conecte-se comigo
 <p>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="ribeironatanael155@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEULINK">
+  <a href="https://www.linkedin.com/in/natanael-ribeiro-b4b944367/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/SEUINSTAGRAM">
+  <a href="https://www.instagram.com/_natanrb?igsh=ZWZvajh1NGNwZml4">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
