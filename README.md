@@ -25,7 +25,8 @@
 ### 📊 GitHub Stats
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanaelrb&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&layout=donut&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&layout=donut&theme=radical&langs_count=8"/>
+
 </p>
 
 ---
