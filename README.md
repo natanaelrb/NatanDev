@@ -2,8 +2,8 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor **Back-end em formação prática**, com foco em **Java**  
-🌐 Experiência complementar em **Python (Django)** e **Frontend Web**  
-🚀 Construindo projetos reais e evoluindo constantemente
+🌐 Experiência complementar em **Python (Django)** e **Frontend Web (React)**  
+🚀 Construindo projetos reais e evoluindo constantemente como desenvolvedor
 
 ---
 
@@ -24,9 +24,10 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanaelrb&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&layout=donut&theme=radical&langs_count=8"/>
-
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=natanaelrb&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelrb&layout=donut&theme=radical&langs_count=8&cache_seconds=1800"/>
 </p>
 
 ---
@@ -50,4 +51,5 @@
 ### 📌 Projetos em Destaque
 - **Edu-Analytics** – Sistema de análise de desempenho educacional (Backend e Frontend)  
 - **SimpleMooc** – Plataforma de cursos online desenvolvida com Django  
-- **EduTrack** – Sistema em desenvolvimento em equipe, focado em gestão e análise de dados  
+- **EduTrack** – Sistema em desenvolvimento em equipe, focado em gestão e análise de dados
+- **Client Management API** – API REST para gerenciamento de clientes
